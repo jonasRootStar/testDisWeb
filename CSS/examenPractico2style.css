@@ -1,5 +1,5 @@
 .section-body {
-    /* border: 1px solid red; */
+    border: 1px solid red;
     width: 80%;
     margin: 0 auto;
     padding: 2em;
@@ -180,3 +180,37 @@ footer {
     font-family: 'Noto Serif', serif;
 }
 
+
+@media screen and (min-width: 300px) and (max-width: 550px) {
+    .section-body {
+        border: 1px solid blue;
+        width: 90%;
+        margin: 0 auto;
+        padding: 2em;
+    }
+
+    .article-calendar {
+        border: 1px red solid;
+        /* border-radius: 8px; */
+        margin: 0 auto;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .article-calendar article {
+        border: 1px solid orange;
+        width: fit-content;
+        /* margin: 2em 1em; */
+        text-align: center;
+        font-family: 'Lato', sans-serif;
+    }
+
+    table {
+        /* border: 1px solid blueviolet; */
+        /* border-radius: 5em; */
+        width: 20em;
+        border-collapse: collapse;
+    }
+}
