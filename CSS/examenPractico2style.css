@@ -36,7 +36,7 @@ h3 {
 }
 
 .article-calendar {
-    /* border: 1px black solid; */
+    border: 1px black solid;
     /* border-radius: 8px; */
     margin: 20px auto;
     /* width: 100%; */
@@ -46,8 +46,8 @@ h3 {
 }
 
 .article-calendar article {
-    /* border: 1px solid orange; */
-    width: fit-content;
+    border: 1px solid orange;
+    width: min-content;
     margin: 2em 1em;
     text-align: center;
     font-family: 'Lato', sans-serif;
@@ -56,7 +56,7 @@ h3 {
 table {
     /* border: 1px solid blueviolet; */
     /* border-radius: 5em; */
-    width: 13em;
+    width: 20em;
     border-collapse: collapse;
 }
 
