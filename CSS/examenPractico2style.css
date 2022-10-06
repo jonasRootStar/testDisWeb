@@ -1,6 +1,6 @@
 .section-body {
     /* border: 1px solid red; */
-    /* width: 100vw; */
+    width: 80%;
     margin: 0 auto;
     padding: 2em;
 }
@@ -39,7 +39,7 @@ h3 {
     border: 1px black solid;
     /* border-radius: 8px; */
     margin: 20px auto;
-    /* width: 100%; */
+    width: 82%;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -47,7 +47,7 @@ h3 {
 
 .article-calendar article {
     border: 1px solid orange;
-    width: max-content;
+    width: fit-content;
     margin: 2em 1em;
     text-align: center;
     font-family: 'Lato', sans-serif;
@@ -56,7 +56,7 @@ h3 {
 table {
     /* border: 1px solid blueviolet; */
     /* border-radius: 5em; */
-    width: 20em;
+    width: 13em;
     border-collapse: collapse;
 }
 
