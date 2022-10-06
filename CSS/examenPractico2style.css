@@ -1,5 +1,5 @@
 .section-body {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 80%;
     margin: 0 auto;
     padding: 2em;
@@ -36,7 +36,7 @@ h3 {
 }
 
 .article-calendar {
-    border: 1px black solid;
+    /* border: 1px black solid; */
     /* border-radius: 8px; */
     margin: 20px auto;
     width: 82%;
@@ -46,7 +46,7 @@ h3 {
 }
 
 .article-calendar article {
-    border: 1px solid orange;
+    /* border: 1px solid orange; */
     width: fit-content;
     margin: 2em 1em;
     text-align: center;
@@ -183,14 +183,14 @@ footer {
 
 @media screen and (min-width: 300px) and (max-width: 550px) {
     .section-body {
-        border: 1px solid blue;
+        /* border: 1px solid blue; */
         width: 90%;
         margin: 0 auto;
         padding: 2em;
     }
 
     .article-calendar {
-        border: 1px red solid;
+        /* border: 1px red solid; */
         /* border-radius: 8px; */
         margin: 0 auto;
         width: 100%;
@@ -200,7 +200,7 @@ footer {
     }
 
     .article-calendar article {
-        border: 1px solid orange;
+        /* border: 1px solid orange; */
         width: fit-content;
         /* margin: 2em 1em; */
         text-align: center;
