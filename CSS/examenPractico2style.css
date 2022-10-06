@@ -1,0 +1,182 @@
+.section-body {
+    /* border: 1px solid red; */
+    width: 80%;
+    margin: 0 auto;
+    padding: 2em;
+}
+
+h3 {
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Noto Serif', serif;
+
+}
+
+.article-body {
+    text-align: center;
+    font-size: 7em;
+    font-family: 'Noto Serif', serif;
+    font-weight: bold;
+}
+
+.dosmil {
+    color: rgb(115, 193, 179);
+}
+
+.cero {
+    color: #f47958;
+}
+
+.veite {
+    color: hsl(341, 79%, 68%);
+}
+
+.dos {
+    color: rgb(239, 227, 141);
+}
+
+.article-calendar {
+    /* border: 1px black solid; */
+    /* border-radius: 8px; */
+    margin: 20px auto;
+    width: 82%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.article-calendar article {
+    /* border: 1px solid orange; */
+    width: fit-content;
+    margin: 2em 1em;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+table {
+    /* border: 1px solid blueviolet; */
+    /* border-radius: 5em; */
+    width: 13em;
+    border-collapse: collapse;
+}
+
+th {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+tr {
+    text-align: center;
+    /* background: rgb(14, 157, 217); */
+}
+
+.domingo {
+    color: rgb(255, 0, 0);
+}
+
+.enero {
+    /* border: 1px solid blue; */
+    background: hsl(207, 62%, 47%);
+}
+
+.dias-enero {
+    background: rgb(14, 157, 217);
+}
+
+.febrero {
+    background: rgb(40, 180, 233);
+}
+
+.dias-febrero {
+    background: rgb(42, 129, 201);
+}
+
+.marzo {
+    background: rgb(114, 190, 179);
+}
+
+.dias-marzo {
+    background: rgb(38, 180, 119);
+}
+
+.abril {
+    background: rgb(38, 180, 119);
+}
+
+.dias-abril {
+    background: rgb(114, 190, 179);
+}
+
+.mayo {
+    background: rgb(203, 218, 65);
+}
+
+.dias-mayo {
+    background: rgb(214, 202, 58);
+}
+
+.junio {
+    background: rgb(214, 202, 58);
+}
+
+.dias-junio {
+    background: rgb(203, 218, 65);
+}
+
+.julio {
+    background: rgb(222, 187, 113);
+}
+
+.dias-julio {
+    background: rgb(240, 230, 145);
+}
+
+.agosto {
+    background: rgb(238, 197, 83);
+}
+
+.dias-agosto {
+    background: rgb(232, 182, 94);
+}
+
+.septiembre {
+    background: rgb(192, 140, 100);
+}
+
+.dias-septiembre {
+    background: rgb(165, 110, 50);
+}
+
+.octubre {
+    background: rgb(244, 121, 90);
+}
+
+.dias-octubre {
+    background: rgb(184, 110, 100);
+}
+
+.noviembre {
+    background: rgb(240, 108, 150);
+}
+
+.dias-noviembre {
+    background: rgb(212, 137, 167);
+}
+
+.diciembre {
+    background: rgb(189, 163, 208);
+}
+
+.dias-diciembre {
+    background: rgb(230, 195, 201);
+}
+
+
+footer {
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+}
+
